@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesh166&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh166" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React and Node**
 
-- 💬 Ask me about **react, vue and tailwind**
+- 💬 Ask me about **react, Next Js and tailwind**
 
 - 📫 How to reach me **dipeshmandal160@gmail.com**
 
